@@ -1,7 +1,7 @@
 # Data Warehouse Analytics Project
 
 Welcome to my **Data Warehouse and Analytics Project** repository! 👋🏼
-The reference of this project is from one of the videos from Data with Bara from Youtube. This projects demonstrates a comprehensive data warehousing and analytic solution, from building my own datawarehouse to generating meaningful insights. Designing a portfolio project, it higlights the industry best practices
+The reference of this project is from one of the videos from Data with Bara from Youtube (https://www.youtube.com/watch?v=9GVqKuTVANE&t=1326s). This projects demonstrates a comprehensive data warehousing and analytic solution, from building my own datawarehouse to generating meaningful insights. Designing a portfolio project, it higlights the industry best practices
 
 ## 🚀 Project Requirements
 
